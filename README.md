@@ -1,2 +1,5 @@
 # Hello-World
-Just another repository
+
+Hi everyone!
+
+Life is too short to update bios.
